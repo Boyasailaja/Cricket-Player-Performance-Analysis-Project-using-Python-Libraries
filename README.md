@@ -1,6 +1,7 @@
 🏏 Cricket Player Performance Analysis – Key Insights:
 
 Key Insights:
+
 •	Top run scorers: Some players have a much higher total number of runs than others.
 
 •	Top wicket takers: A few players have taken significantly more wickets. 
